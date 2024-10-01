@@ -16,17 +16,17 @@
     <h3>This is how we use <small class="text-muted">small</small> tag</h3>
     <dl class="row">
         <dt class="col-3"><mark>Tokyo</mark></dt>
-        <dd class="col-9">Capital of Japan</dd>
+        <dd class="col-9">Capital of <kbd>Japan</kbd></dd>
         <dt class="col-3"><mark>Paris</mark></dt>
-        <dd class="col-9">Capital of France</dd>
+        <dd class="col-9">Capital of <kbd>France</kbd></dd>
         <dt class="col-3"><mark>Delhi</mark></dt>
-        <dd class="col-9">Capital of India</dd>
+        <dd class="col-9">Capital of <kbd>India</kbd></dd>
         <dt class="col-3"><mark>Dubai</mark></dt>
-        <dd class="col-9">Capital of UAE</dd>
+        <dd class="col-9">Capital of <kbd>UAE</kbd></dd>
         <dt class="col-3"><mark>Seoul</mark></dt>
-        <dd class="col-9">Capital of South Korea</dd>
+        <dd class="col-9">Capital of <kbd>South Korea</kbd></dd>
         <dt class="col-3"><mark>Beijing</mark></dt>
-        <dd class="col-9">Capital of China</dd>
+        <dd class="col-9">Capital of <kbd>China</kbd></dd>
     </dl>
 </body>
 </html>
